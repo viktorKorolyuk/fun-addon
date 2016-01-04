@@ -1,2 +1,6 @@
-console.log('starting your lib...');
+(function(){
+console.log("Starting SUPER AWESOME LIBRARY...");
 
+
+
+})();
