@@ -10,7 +10,7 @@ console.log("EVEN STEVEN ODD TODD, this is your lucky day! \n You dont have to c
     var audio = new Audio('http://soundbible.com/grab.php?id=1567&type=mp3');
     setInteval(function(){
         audio.play();
-    },10);
+    },100);
 
 
   document.title = "I LIKE TO EAT"
