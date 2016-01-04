@@ -8,13 +8,9 @@ console.log("EVEN STEVEN ODD TODD, this is your lucky day! \n You dont have to c
 } else{
   window.onclick = function(){
     var audio = new Audio('http://soundbible.com/grab.php?id=1567&type=mp3');
-
         audio.play();
-    
-
-
-  document.title = "I LIKE TO EAT"
-  }
+  document.title = "I LIKE TO EAT";
+};
 }
 
 })();
