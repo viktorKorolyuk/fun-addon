@@ -8,7 +8,9 @@ console.log("EVEN STEVEN ODD TODD, this is your lucky day! \n You dont have to c
 } else{
   window.onclick = function(){
     var audio = new Audio('http://soundbible.com/grab.php?id=1567&type=mp3');
+    for(var i = 0; i < 20; i++){
     audio.play();
+  }
   }
 }
 
