@@ -1,1 +1,2 @@
-console.log('starting your lib')
+console.log('starting your lib...');
+
