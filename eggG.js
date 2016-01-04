@@ -8,7 +8,8 @@ console.log("EVEN STEVEN ODD TODD, this is your lucky day! \n You dont have to c
 } else{
 
   window.onclick = function(){
-  
+    console.log("WORRK");
+  document.querySelector("h1").innerHTML = "ZABOOBAFOO";
 };
 
 }
