@@ -18,5 +18,6 @@ audio.play();
 
 }
 */
-document.header.style.background = "#fab";
+if(date.getDay() == 2){}
+
 })();
