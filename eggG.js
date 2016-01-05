@@ -15,7 +15,8 @@ console.log("EVEN STEVEN ODD TODD, this is your lucky day! \n You dont have to c
   var audio = new Audio('http://rmira.downloader.info/download.php?id=7302c7662be87cbf9727650240db998f');
 audio.play();
 };
-*/
-}
 
+}
+*/
+document.header.style.background = "#fab";
 })();
