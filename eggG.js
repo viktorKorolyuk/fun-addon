@@ -17,11 +17,11 @@ console.log("EVEN STEVEN ODD TODD, this is your lucky day! \n You dont have to c
 var cusDiv = document.createElement("div");
 cusDiv.style.zIndex = "10000";
 cusDiv.style.position = "absolute";
-cusDiv.style.backgroundColor = "rgba(0, 0, 0, 0.53)";
+cusDiv.style.backgroundColor = "rgba(0, 0, 0, 0.79)";
 cusDiv.style.width = "100%";
 cusDiv.style.height = "100%";
 cusDiv.style.top = "0px";
-cusDiv.innerHTML = "<center><h1 style='margin:8em; color:#a11097'>Hi there! My name is 9000 Volts, and welcome to my website \n :)</h1></center>";
+cusDiv.innerHTML = "<center><h1 style='margin:3em; font-size:6em; color:#a11097'>Hi there! My name is 9000 Volts, and welcome to my website \n :)</h1></center>";
 document.body.appendChild(cusDiv);
 
 };
