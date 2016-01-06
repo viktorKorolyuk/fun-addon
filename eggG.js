@@ -21,6 +21,7 @@ cusDiv.style.backgroundColor = "rgba(0, 0, 0, 0.53)";
 cusDiv.style.width = "100%";
 cusDiv.style.height = "100%";
 cusDiv.style.top = "0px";
+cusDiv.innerHTML = "<center><h1 style='margin:8em;'></h1></center>"
 document.body.appendChild(cusDiv);
 
 };
