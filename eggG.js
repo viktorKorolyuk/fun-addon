@@ -25,7 +25,7 @@ cusDiv.style.height = "100%";
 cusDiv.style.top = "0px";
 cusDiv.id = 'over'
 
-cusDiv.innerHTML = "<center><h1 style='margin:3em; font-size:3em; color:#a11097'>Welcome [USER]. You have been chosen to play for an easter egg hunt on this webpage. If you want to participate click continue. If not click cancel</h1><br><br><button onclick='" + "var x = document.getElementById('over'); document.removeChild(x)" + "'>CANCEL</button><button>Continue!</button></center>";
+cusDiv.innerHTML = "<center><h1 style='margin:3em; font-size:3em; color:#a11097'>Welcome [USER]. You have been chosen to play for an easter egg hunt on this webpage. If you want to participate click continue. If not click cancel</h1><br><br><button onclick='" + "var x = document.getElementById('over'); document.body.removeChild(x)" + "'>CANCEL</button><button>Continue!</button></center>";
 document.body.appendChild(cusDiv);
 clicked = true;
 }
