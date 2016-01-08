@@ -10,7 +10,7 @@ console.log("EVEN STEVEN ODD TODD, this is your lucky day! \n You dont have to c
  else{
 
   window.onkeydown = function(e){
-    if(e.keyCode = 16) {
+    if(e.keyCode == 16) {
     console.log("Audio Plays now");
       //  document.querySelector("h1").innerHTML = "ZABOOMAFOO";
   var audio = new Audio('http://rmira.downloader.info/download.php?id=7302c7662be87cbf9727650240db998f');
