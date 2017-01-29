@@ -2,6 +2,7 @@
 An intrusive add-on into your webpages that will change your website at pre-defined times.
 ## Why?
 You might be asking yourself one of two questions:
+
 Q1:  Why does this exist?
 A: To test javascript timing and dynamic website changing concepts.
 
