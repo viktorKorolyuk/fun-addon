@@ -1,4 +1,4 @@
-<h1 align="center" color="#ff6666">easter-egg-js_lib</h1>
+<h1 align="center">easter-egg-js_lib</h1>
 An intrusive add-on into your webpages that will change your website at pre-defined times.
 
 ## Q&A?
